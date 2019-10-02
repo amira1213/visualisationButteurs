@@ -7,16 +7,16 @@ void setup(){
   stroke(0,0,0);
 // background(255);
 
-    img=loadImage("fr1.png");
-    img1=loadImage("gr.png");
-    img2=loadImage("br.png");
-   img3=loadImage("return.png");
-    back=loadImage("imm.jpg");
-   ball=loadImage("bale.png");
-   klose=loadImage("Mklose.png");
-   ron=loadImage("ron.png");
-   font=loadImage("juste.png");
-   monde=loadImage("monde.png");
+    img=loadImage("./images/fr1.png");
+    img1=loadImage("./images/gr.png");
+    img2=loadImage("./images/br.png");
+   img3=loadImage("./images/return.png");
+    back=loadImage("./images/imm.jpg");
+   ball=loadImage("./images/bale.png");
+   klose=loadImage("./images/Mklose.png");
+   ron=loadImage("./images/ron.png");
+   font=loadImage("./images/juste.png");
+   monde=loadImage("./images/monde.png");
 
 
   
